@@ -31,7 +31,6 @@ html {
 
 ul {
   list-style-type: none;
-  font-family: 'Dancing Script', serif;
 }
 
 a {
@@ -45,7 +44,7 @@ a:hover {
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+   font-family: 'Dancing Script', serif;
 }
 
 nav {
